@@ -1,4 +1,3 @@
-import React, { useEffect } from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
 import {
   AiFillGithub,
@@ -7,7 +6,7 @@ import {
 } from "react-icons/ai";
 import { BsFacebook } from "react-icons/bs";
 import { Link } from "react-router-dom";
-import './Header.css'
+import "./Header.css";
 
 const Header = () => {
   return (
@@ -17,21 +16,25 @@ const Header = () => {
           <h3
             className="ml12"
             style={{
-              fontWeight: 400,
-              fonstSize: "1.2em",
-              letterSpacing: "0.1em",
+              fontWeight: 600,
+              letterSpacing: "0.01em",
+              fontSize: "2rem",
             }}
           >
-            Matthew Withey
+            Magdalena Maria Miedlar
           </h3>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
-
-            <Link to='/' className="link_style" > Home </Link>
-            <Link to='/about' className="link_style" > About me </Link>
-
+            <Link to="/" className="link_style">
+              {" "}
+              Home{" "}
+            </Link>
+            <Link to="/about" className="link_style">
+              {" "}
+              About me{" "}
+            </Link>
           </Nav>
           {/* <Nav xs={12} className="d-flex flex-row " >
             <Nav.Link href="#" >
