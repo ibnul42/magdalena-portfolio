@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="col-md-6 col-sm-12 d-flex flex-column justify-content-center hero_text">
           <h2>Hi there,</h2>
           <p>
-            I'm a Web Developer with strong expertise in building both
+            I'm a Software Engineer with strong expertise in building both
             informational and transactional websites and hybrid apps. I focus on
             crafting responsive, intuitive user interfaces and
             performance-driven solutions. Leveraging modern frameworks and
