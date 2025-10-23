@@ -29,7 +29,7 @@ const Footer = () => {
           {/* Copyright */}
           <div className="col-md-6 d-flex align-items-end justify-content-md-end text-md-end">
             <p className="mb-0 small">
-              © 2025 All rights reserved by Viktoriia Honcharova
+              © 2025 All rights reserved by Magdalena Maria Miedlar
             </p>
           </div>
         </div>

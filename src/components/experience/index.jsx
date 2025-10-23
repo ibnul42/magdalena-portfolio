@@ -4,39 +4,14 @@ import SingleExperience from "./SingleExperience";
 
 const allExperience = [
   {
-    title: "Software Product Developer- Silpo Food",
-    role: "Frontend Engineer / Product Developer",
-    date: "Jan 2019 to Present",
+    title: "Kitron",
+    role: "Senior Software Engineer",
+    date: "Sep 2025 to Present",
   },
   {
-    title: "Capgemini - GE Power",
-    role: "Applications Consultant 2/ Front end Developer",
-    date: "Jan 2018 to Jan 2019",
-  },
-  {
-    title: "Capgemini - JCI",
-    role: "UI Lead Developer",
-    date: "May 2017 to Dec 2017",
-  },
-  {
-    title: "Capgemini - GE Power",
-    role: "Hybrid Technical Specialist",
-    date: "Oct 2015 to Apr 2017",
-  },
-  {
-    title: "TCS Chennai - BAC Touch/Bank of America",
-    role: "Mobile Web Developer",
-    date: "Oct 2012 to Sep 2013",
-  },
-  {
-    title: "Tata Consultancy Services - Telecom Store Inventory",
-    role: "JAVA/Web Developer",
-    date: "Mar 2012 - July 2012",
-  },
-  {
-    title: "Techno Sphere IT Hyderabad - LBG",
-    role: "Mobile Developer",
-    date: "May 2011 – Mar 2012",
+    title: "Markel Corp",
+    role: "Senior Software Engineer",
+    date: "Jul 2024 to Sep 2025",
   },
 ];
 

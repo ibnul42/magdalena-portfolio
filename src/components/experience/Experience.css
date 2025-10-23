@@ -7,8 +7,8 @@
 
 .experience_section{
     margin: 8px;
+    padding: 20px 5px;
     min-width: 25vw;
-    max-width: 27vw;
     border-radius: 10px;
     background: rgb(33, 45, 69);
     overflow: hidden;
@@ -25,14 +25,14 @@
     color: rgb(156, 201, 227);
     padding: 0.2rem 0.5px;
     margin-top: 10px;
-    font-size: 16px;
+    font-size: 20px;
     background: rgb(33, 45, 69);
 }
 
 .experience_role{
     font-weight: bolder;
     margin-top: 5px;
-    font-size: 14px;
+    font-size: 16px;
     color: #94C973;
     background: rgb(33, 45, 69);
 
@@ -48,8 +48,8 @@
 }
 
 
-@media (max-width: 768px) {
+@media (min-width: 768px) {
     .experience_section {
-      min-width: 90vw;
+      min-width: 43vw;
     }
   }
